@@ -2,6 +2,6 @@
 
 A simple design of a login website.
 
-Screenshot:
+# Screenshot:
 
 ![screenshot](Screenshot.png)
